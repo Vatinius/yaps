@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vatinius.github.io/yaps/sitemap.xml
+Sitemap: https://vatinius.github.io/sitemap.xml
